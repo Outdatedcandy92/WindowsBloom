@@ -35,4 +35,4 @@ Set-Wallpaper $wallpaper2
 
 # Stop the MPV process
 $mpvProcess | Stop-Process
-$wallpaper1 = "C:\Users\Rudy\Documents\Code\WindowsWallpaperAnimation\start.png" 
+
