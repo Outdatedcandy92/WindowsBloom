@@ -1,3 +1,7 @@
+$wallpaper1 = "C:\Users\Rudy\Documents\code\WindowsBloom\media\start.png" 
+$wallpaper2 = "C:\Users\Rudy\Documents\code\WindowsBloom\media\img.png" 
+$video = "C:\Users\Rudy\Documents\code\WindowsBloom\media\startup.mp4" 
+$mpvPath = "C:\Users\Rudy\Documents\code\WindowsBloom\src\mpv.exe" 
 
 #Paths will go here after install.bat
 

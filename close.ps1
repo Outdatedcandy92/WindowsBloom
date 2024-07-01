@@ -1,3 +1,4 @@
+$wallpaper1 = "C:\Users\Rudy\Documents\code\WindowsBloom\start.png" 
 
 #Paths will go here after install.bat
 
